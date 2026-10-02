@@ -145,7 +145,7 @@ Whether you're building a new SaaS platform, launching a mobile app, or automati
 - 📧 **Primary Email**: [moizalvi@corespectators.com](mailto:moizalvi@corespectators.com)
 - 📬 **Secondary Email**: [moizalvi@live.com](mailto:moizalvi@live.com)
 - 💼 **LinkedIn**: [linkedin.com/in/moiz-alvi](https://www.linkedin.com/in/moiz-alvi)
-- 🌐 **Agency**: Co-Founder @ **Corespectators Engineering Architecture**
+- 🌐 **Agency**: Co-Founder @ **Corespectators**
 - 📍 **Timezone**: Pakistan Standard Time (PKT / UTC+5) · *Flexible overlap with US, UK, and European clients*
 
 <div align="center">
