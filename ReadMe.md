@@ -1,20 +1,153 @@
-# 💫 About Me:
-👋 Hey there! I'm an all-in-one developer, proficient in both backend and frontend development. Here's a little bit about what I'm up to:<br><br>🛠️ I'm currently working on: Developing a cutting-edge mobile app that seamlessly integrates with web services, offering users a holistic experience.<br><br>🤝 I'm looking to collaborate on: Exciting projects that challenge the boundaries of technology. Whether it's building an innovative startup or contributing to open-source initiatives, I'm eager to team up with like-minded individuals or organizations.<br><br>🆘 I'm looking for help with: Enhancing the user interface of my latest project. I'm searching for a talented UI/UX designer who can help create a visually stunning and user-friendly experience.<br><br>📚 I'm currently learning: Machine learning and AI integration into apps. I believe that harnessing the power of AI can unlock incredible possibilities for the future of technology.<br><br>© Ask me about: Anything related to app development, from choosing the right tech stack to optimizing server performance. I'm always happy to share my knowledge and insights.<br><br>🎉 Fun fact: I once developed a mobile game that became an unexpected hit in the App Store, amassing over a million downloads within its first month. It was a rollercoaster ride of excitement and late-night coding sessions!<br><br>Feel free to reach out if you'd like to connect, collaborate, or just chat about all things tech. Let's build amazing things together! 🚀
+<div align="center">
 
+# ⚡ Moiz Alvi
+### Co-Founder @ Corespectators · Full-Stack Software Architect
+**C# / .NET · React / TypeScript · Flutter · Node.js & Laravel · AI Pipelines**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=moizali2134&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=moizali2134&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moizali2134&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://github.com/moizali2134"><img src="https://img.shields.io/badge/GitHub-moizali2134-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="mailto:moizalvi@corespectators.com"><img src="https://img.shields.io/badge/Email-moizalvi%40corespectators.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/moiz-alvi"><img src="https://img.shields.io/badge/LinkedIn-moiz--alvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Location-Islamabad%2C_Pakistan-0052CC?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Available_Full--Time-10B981?style=for-the-badge" alt="Status" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=moizali2134&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+*Building high-performance software, real-time architectures, and production-ready digital products with zero downtime.*
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=moizali2134&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
+## 📌 Executive Summary
+
+Co-Founder of **Corespectators** with **6+ years** of engineering experience architecting and maintaining production systems for e-commerce, multi-gateway payments, on-demand dispatch, and autonomous AI platforms. 
+
+Comfortable operating across the complete full-stack lifecycle: from **Flutter & React** frontends to **C#/.NET, PHP/Laravel, Node.js, and Python/FastAPI** backends, down to **MySQL/PostgreSQL, Redis, Nginx**, and containerized cloud infrastructure.
+
+> **Engineering Philosophy**: *I don't just write code. I architect scalable systems, eliminate bottlenecks, harden security, and deliver enterprise-grade software.*
+
+---
+
+## 📊 Key Engineering Metrics
+
+| Metric | Benchmark | Description |
+| :--- | :--- | :--- |
+| 🚀 **Deployments** | **20+ Live Systems** | Enterprise SaaS architectures and Flutter apps running in production |
+| ⚡ **Latency** | **<50ms Real-Time** | Sub-50ms REST endpoints, persistent WebSocket pools, and offline-first cache |
+| 🛡️ **Reliability** | **99.9% Uptime** | Fault-tolerant background workers, idempotency locks, and dunning retry queues |
+| 🤝 **Handover** | **100% IP Ownership** | Clean Git repository transfers, zero vendor lock-in, and full documentation |
+
+---
+
+## 🏗️ Core Architectural Pillars
+
+### 1. 🏢 Enterprise SaaS Platforms
+- **Multi-Tenant Isolation**: Row-level database partitioning (`tenant_id` guards), strict role-based access control (RBAC), and tenant data isolation.
+- **Financial Ledgers & Billing**: Double-entry bookkeeping precision, idempotent Stripe webhook handling with Redis deduplication locks, and automated PDF tax invoice pipelines.
+- **Micro-Services & API Gateways**: RESTful APIs, WebSocket order streams, and BullMQ worker clusters with PM2 process managers.
+
+### 2. 📱 Cross-Platform Mobile Applications (Flutter & Native Android)
+- **Fluid 60FPS UI**: Custom Flutter widget trees adapting smoothly across iOS, Android, tablets, and web viewports.
+- **Local-First Synchronization**: Offline SQLite ledgers, biometric authentication (FaceID/Fingerprint), and instant background cloud reconciliation.
+- **Geospatial & Hardware SDKs**: Google Maps Flutter SDK, real-time Haversine radial geofencing radar, camera OCR vision pipelines, and haptic feedback engines.
+
+### 3. 🤖 Autonomous AI & Workflow Automation (n8n & LLMs)
+- **Multi-Agent Orchestration**: LangChain supervisor routing, tool calling, and RAG vector search via Pinecone.
+- **24/7 Voice Telephony Agents**: Twilio Voice SIP trunk integration, OpenAI Whisper real-time audio STT, and ElevenLabs neural speech generation.
+- **Meta WhatsApp Cloud API**: Autonomous 24/7 customer support, lead qualification, and Google Calendar meeting dispatch.
+
+---
+
+## 🚀 Featured Projects & Systems
+
+### 🏢 Enterprise SaaS
+- **[Oiz Vehadar Cloud](https://oizvehadar.cloud)** · *Next.js, FastAPI, DictaLM, Whisper, Redis, Stripe*  
+  AI research platform with natural language document cross-referencing, audio shiurim transcription, and tokenized billing.
+- **[RestroGeniee POS](https://github.com/moizali2134)** · *React, Node.js, Express, Socket.IO, MySQL, IndexedDB*  
+  Multi-tenant restaurant management ERP featuring real-time KDS dispatch, ingredient recipe costing, and ESC/POS thermal printing.
+- **[EduSaaS Pro](https://github.com/moizali2134)** · *React, TypeScript, Node.js, PDFKit, MySQL*  
+  Campus ERP featuring double-entry fee ledger accounting, RFID attendance, and 3-copy PDF fee challan generation with QR codes.
+- **[SaaS Billing Architecture](https://github.com/moizali2134)** · *Node.js, TypeScript, Stripe Webhooks, Redis, PostgreSQL*  
+  Industrial subscription engine with cryptographic signature verification, metered usage tracking, and audit ledgers.
+- **[Stripe Web & Mobile Gateway Suite](https://github.com/moizali2134/web_stripe)** · *Flutter Web, Dart, C++, Stripe SDK*  
+  Cross-platform payment engine implementing direct Stripe PaymentIntents, SCA 3DS challenges, Apple Pay, and webhooks.
+
+### 📱 Mobile Applications (Flutter & Android)
+- **[SalonPro ERP](https://github.com/moizali2134)** · *Flutter, Dart, Provider, Google Maps, Firebase, POS Terminal*  
+  Multi-branch beauty and salon ERP with stylist seat scheduling, mobile POS terminal checkout, and client CRM.
+- **[ProfitIQ Asset Tracker](https://github.com/moizali2134)** · *Flutter, Dart, WebSockets, FL Chart, SQLite*  
+  High-frequency crypto and portfolio tracker with sub-second WebSocket order book streams and PnL accounting.
+- **[Real-Time Auction & Bidding App](https://github.com/moizali2134/AuctionApp)** · *Java, Android SDK, Gradle, SQLite, REST API*  
+  Native Android app featuring sub-second live bidding, synchronized auction countdowns, item lot catalogs, and push alerts.
+- **[Nightmares & Sleep Tracker](https://github.com/moizali2134/Nightmares_tracker)** · *Flutter, Dart, Sleep Analytics, SQLite, Audio Memo*  
+  Cross-platform dream and nightmare wellness journal with voice memo recording, sleep correlation charts, and local encryption.
+- **[Map Radius & Geofencing Engine](https://github.com/moizali2134/map_radius_demo)** · *Flutter, Google Maps SDK, Geolocator, Haversine*  
+  Interactive spatial exploration radar featuring dynamic circular geofence radius adjustments and sub-meter distance queries.
+- **[Flutter Responsive Layout Framework](https://github.com/moizali2134/FlutterResponsive-Design-File)** · *Flutter, Dart, LayoutBuilder, MediaQuery*  
+  Universal multi-screen layout framework enabling smooth adaptation across mobile phones, tablets, foldables, and desktop viewports.
+
+### 🤖 AI & n8n Automation
+- **Autonomous Multi-Agent Orchestrator** · *n8n, LangChain, Pinecone Vector DB, GPT-4o*  
+  Self-governing agent workflow automating enterprise CRM enrichment, ticket routing, and RAG knowledge lookup.
+- **24/7 AI Voice Calling Agent** · *Twilio SIP, OpenAI Whisper, ElevenLabs TTS, FastAPI*  
+  Inbound and outbound voice agent handling natural turn-taking phone calls with automated CRM post-call logging.
+- **WhatsApp AI Messaging Agent** · *Meta Cloud API, n8n, Pinecone RAG, HubSpot, Redis*  
+  Autonomous WhatsApp business assistant with product catalog querying and calendar appointment booking.
+
+---
+
+## 💻 Tech Stack & Tooling
+
+```text
+Languages:       C# · Dart · TypeScript · JavaScript · Python · PHP · Java · C++ · SQL · Shell
+Mobile & Web:    Flutter · React · Next.js · React Native · HTML5 · CSS3 / Tailwind CSS
+Backend & API:   ASP.NET Core · Node.js (Express) · Laravel · FastAPI · Socket.IO · REST · Webhooks
+Databases:       PostgreSQL · MySQL · Redis · SQLite · MariaDB · Microsoft SQL Server · Pinecone
+Cloud & DevOps:  Docker · Nginx · Apache · AWS · Google Cloud · Firebase · Git / GitHub · CI/CD
+Payments & AI:   Stripe (PaymentIntents/Webhooks) · Twilio Voice · OpenAI GPT-4o / Whisper · n8n
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+</p>
+
+---
+
+## 📈 GitHub Telemetry
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moizali2134&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06080E&title_color=06B6D4&icon_color=6366F1&text_color=94A3B8" alt="Moiz Alvi GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizali2134&layout=compact&theme=tokyonight&hide_border=true&bg_color=06080E&title_color=06B6D4&text_color=94A3B8" alt="Top Languages" />
+</div>
+
+---
+
+## 📬 Let's Connect & Collaborate
+
+Whether you're building a new SaaS platform, launching a mobile app, or automating workflows with AI:
+
+- 📧 **Primary Email**: [moizalvi@corespectators.com](mailto:moizalvi@corespectators.com)
+- 📬 **Secondary Email**: [moizalvi@live.com](mailto:moizalvi@live.com)
+- 💼 **LinkedIn**: [linkedin.com/in/moiz-alvi](https://www.linkedin.com/in/moiz-alvi)
+- 🌐 **Agency**: Co-Founder @ **Corespectators Engineering Architecture**
+- 📍 **Timezone**: Pakistan Standard Time (PKT / UTC+5) · *Flexible overlap with US, UK, and European clients*
+
+<div align="center">
+  <sub>© Moiz Alvi · Architected with Precision & High-Impact Standards</sub>
+</div>
