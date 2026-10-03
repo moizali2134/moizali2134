@@ -5,6 +5,7 @@
 **C# / .NET · React / TypeScript · Flutter · Node.js & Laravel · AI Pipelines**
 
 <p align="center">
+  <a href="https://moizalvi.vercel.app/"><img src="https://img.shields.io/badge/Live_Portfolio-moizalvi.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" /></a>
   <a href="https://github.com/moizali2134"><img src="https://img.shields.io/badge/GitHub-moizali2134-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="mailto:moizalvi@corespectators.com"><img src="https://img.shields.io/badge/Email-moizalvi%40corespectators.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/moiz-alvi"><img src="https://img.shields.io/badge/LinkedIn-moiz--alvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -142,6 +143,7 @@ Payments & AI:   Stripe (PaymentIntents/Webhooks) · Twilio Voice · OpenAI GPT-
 
 Whether you're building a new SaaS platform, launching a mobile app, or automating workflows with AI:
 
+- 🚀 **Live Portfolio**: [moizalvi.vercel.app](https://moizalvi.vercel.app/)
 - 📧 **Primary Email**: [moizalvi@corespectators.com](mailto:moizalvi@corespectators.com)
 - 📬 **Secondary Email**: [moizalvi@live.com](mailto:moizalvi@live.com)
 - 💼 **LinkedIn**: [linkedin.com/in/moiz-alvi](https://www.linkedin.com/in/moiz-alvi)
