@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://moizalvi.vercel.app/">
+  <img src="https://moizalvi.vercel.app/brand/moiz_alvi_logo.png" alt="Moiz Alvi Official Logo" width="160" height="160" style="border-radius: 36px; box-shadow: 0 14px 36px rgba(0,0,0,0.55);" />
+</a>
+
 # ⚡ Moiz Alvi
 ### Co-Founder @ Corespectators · Full-Stack Software Architect
 **C# / .NET · React / TypeScript · Flutter · Node.js & Laravel · AI Pipelines**
@@ -130,12 +134,60 @@ Payments & AI:   Stripe (PaymentIntents/Webhooks) · Twilio Voice · OpenAI GPT-
 
 ---
 
-## 📈 GitHub Telemetry
+## 📈 GitHub Telemetry & Engineering Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moizali2134&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06080E&title_color=06B6D4&icon_color=6366F1&text_color=94A3B8" alt="Moiz Alvi GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizali2134&layout=compact&theme=tokyonight&hide_border=true&bg_color=06080E&title_color=06B6D4&text_color=94A3B8" alt="Top Languages" />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/moizali2134">
+          <img 
+            src="https://github-readme-stats.vercel.app/api?username=moizali2134&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06080E&title_color=06B6D4&icon_color=6366F1&text_color=94A3B8&cache_seconds=86400&include_all_commits=true&locale=en" 
+            alt="Moiz Alvi GitHub Stats" 
+            height="180" 
+            loading="lazy" 
+            decoding="async" 
+          />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/moizali2134">
+          <img 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizali2134&layout=compact&theme=tokyonight&hide_border=true&bg_color=06080E&title_color=06B6D4&text_color=94A3B8&cache_seconds=86400&locale=en" 
+            alt="Top Languages" 
+            height="180" 
+            loading="lazy" 
+            decoding="async" 
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<div align="center" style="margin-top: 10px;">
+  <a href="https://github.com/moizali2134">
+    <img 
+      src="https://streak-stats.demolab.com?user=moizali2134&theme=tokyonight&hide_border=true&background=06080E&ring=06B6D4&fire=6366F1&currStreakLabel=06B6D4&sideLabels=94A3B8&dates=94A3B8&cache_seconds=86400" 
+      alt="GitHub Streak Stats" 
+      height="185" 
+      loading="lazy" 
+      decoding="async" 
+    />
+  </a>
+</div>
+
+<br/>
+
+### 📦 Open Source Telemetry & Repositories
+
+| Repository | Focus & Stack | Telemetry & Quick Clone |
+| :--- | :--- | :--- |
+| 💳 **[web_stripe](https://github.com/moizali2134/web_stripe)** | Flutter Web, SCA 3DS, Stripe Intents | `git clone https://github.com/moizali2134/web_stripe.git` |
+| 🏷️ **[AuctionApp](https://github.com/moizali2134/AuctionApp)** | Native Android (Java), Real-time Bids | `git clone https://github.com/moizali2134/AuctionApp.git` |
+| 🌙 **[Nightmares_tracker](https://github.com/moizali2134/Nightmares_tracker)** | Flutter, Sleep Analytics, SQLite Memos | `git clone https://github.com/moizali2134/Nightmares_tracker.git` |
+| 📍 **[map_radius_demo](https://github.com/moizali2134/map_radius_demo)** | Flutter, Google Maps, Geofencing Radar | `git clone https://github.com/moizali2134/map_radius_demo.git` |
+| 📐 **[FlutterResponsive-Design-File](https://github.com/moizali2134/FlutterResponsive-Design-File)** | Flutter Multi-Screen Adaptive Layout | `git clone https://github.com/moizali2134/FlutterResponsive-Design-File.git` |
 
 ---
 
